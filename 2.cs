@@ -2,11 +2,6 @@ using System;
 
 public class BSEArray
 {
-    Public static void Shownames ()
-    {
-        Console.Write("Zach Shaffer");
-    }
-
     Public static void ShowArray (int[] A)
     {
         int i = 0;
